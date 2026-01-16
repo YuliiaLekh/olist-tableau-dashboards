@@ -97,11 +97,6 @@ Three comprehensive Tableau dashboards providing actionable insights:
 > 
 > **Critical Insight:** This is NOT a demand problem (Northern Brazil has 15M population, growing GDP) — it's a **supply-side infrastructure constraint**
 
-**Market Opportunity:**
-- **Addressable Market:** 15M population, R$ 2-3M annual revenue potential (10% e-commerce penetration)
-- **Required Investment:** R$ 500K (Manaus fulfillment center + Correios partnership for last-mile delivery)
-- **Projected ROI:** 6-9 month payback period
-
 ---
 
 ### Revenue Growth: Marketplace Network Effects
@@ -122,7 +117,6 @@ Three comprehensive Tableau dashboards providing actionable insights:
 > 4. Repeat → Exponential growth (network effects)
 > 
 > **Pattern Observed:** Classic hypergrowth phase of two-sided marketplace. 
-> **Prediction:** Growth will plateau at R$ 2-3M monthly (market maturity phase)
 
 ---
 
@@ -140,7 +134,6 @@ Three comprehensive Tableau dashboards providing actionable insights:
 
 **Required Action for Real Business:**
 - Cohort analysis: Did Q3 customers return in Q4 or churn permanently?
-- Competitive intel: Mercado Livre market share changes Q3→Q4
 - Customer survey: "Why did you reduce/stop purchases?"
 
 ---
@@ -180,97 +173,6 @@ Three comprehensive Tableau dashboards providing actionable insights:
 
 ---
 
-### Win-Back Campaign ROI Projection
-
-**Assumptions:**
-- Target: 22,682 At Risk customers
-- Win-back rate: 20% (conservative, industry standard 15-25%)
-- Average order value: R$ 235
-- Campaign cost: R$ 50K (email automation + SMS + 15% discount subsidy)
-
-**Financial Model:**
-```
-Customers recovered: 22,682 × 20% = 4,536
-Revenue recovered: 4,536 × R$ 235 = R$ 1,066,000
-Campaign cost: R$ 50,000
-Net profit: R$ 1,016,000
-ROI: 20.3x
-```
-
-**Campaign Strategy:**
-1. **Email sequence (3 touchpoints over 14 days):**
-   - Day 0: "We miss you! 15% off your next order"
-   - Day 7: Personalized product recommendations (based on past purchases)
-   - Day 14: "Last chance: 20% off + free shipping"
-
-2. **SMS:** "Hi [Name], it's been a while! Here's R$ 50 off: [link]"
-
-3. **Abandoned browse remarketing:** Target At Risk customers who visit site but don't buy
-
----
-
-### Champions Segment: Underutilized Asset
-
-**Profile:**
-- **8,965 customers (9%)** — small but valuable
-- **R$ 1,483,266 aggregate spend**
-- **R$ 165 avg order value**
-- **Low recency + High monetary** (bought recently, spent significantly)
-
-**Strategic Opportunity:**
-> Only 9% of customers = **Champions under-leveraged**. These are proven high-value customers willing to spend.
-
-**"Olist Plus" VIP Program Proposal:**
-
-**Membership Benefits:**
-- Monthly fee: R$ 9.90 (R$ 118/year)
-- Free shipping on ALL orders
-- Early access to sales (24h exclusive window)
-- 5% cashback
-- Priority customer support
-
-**Target Audience:** Champions (8,965) + Loyal Customers (26,239) = 35,204 eligible
-
-**Economics:**
-```
-Conversion rate: 10% (conservative for value prop)
-Members: 3,520
-Annual subscription revenue: R$ 415,360
-
-Shipping subsidy cost: 3,520 customers × 2 orders/month × R$ 15 × 12 = R$ 1.27M
-Net cost: R$ 850K
-
-BUT:
-Order frequency increase: 2x → 4x annual (subscription psychology)
-Incremental revenue: 3,520 × 2 extra orders × R$ 165 = R$ 1.16M
-Net value created: R$ 310K first year (payback), R$ 1M+ ongoing
-```
-
----
-
-### "Lost" Segment: Strategic Ignore
-
-**Profile:**
-- 15,910 customers (17%)
-- **R$ 55 average order value** (lowest across all segments)
-- Low frequency + Low monetary + High recency
-
-**Why Low AOV Matters:**
-> Lost customers = **bargain hunters** who came for deals, left when promotions ended.
-> 
-> **Economics of chasing Lost segment:**
-> - R$ 55 AOV - R$ 15 shipping - R$ 11 discount (20%) = R$ 29 contribution margin
-> - Below profitability threshold after marketing costs
-
-**Strategic Decision:**
-> **Do NOT invest in Lost segment win-back.** 
-> 
-> **Reason:** Low-value, price-sensitive customers likely to churn again after promotion ends. 
-> 
-> **Better allocation:** Focus budget on At Risk (R$ 235 AOV, recoverable) and Promising (recent buyers, convertible to Loyal).
-
----
-
 ### Cohort Retention: Fundamental Challenge
 
 **Finding from Dataset Analysis:**
@@ -295,16 +197,6 @@ Net value created: R$ 310K first year (payback), R$ 1M+ ongoing
 > 4. **Re-engagement triggers:** "Your favorite seller has new products"
 
 ---
-
-## Business Impact Summary
-
-**Actionable Insights Delivered:**
-
-1. **Identified R$5.3M customer value at risk** → 20x ROI win-back campaign designed
-2. **Quantified 37.5% revenue concentration** → geographic diversification roadmap
-3. **Revealed 95% one-time buyer rate** → retention mechanisms recommended
-4. **Mapped R$2-3M Northern Brazil opportunity** → logistics partnership strategy
-5. **Designed VIP program** for 9% Champions segment → R$1M+ incremental value
 
 **Skills Demonstrated:**
 - Business Intelligence & Data Storytelling
