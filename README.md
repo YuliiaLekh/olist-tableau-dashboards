@@ -45,7 +45,7 @@ Three comprehensive Tableau dashboards providing actionable insights:
 
 ## Dashboard 1: Executive Overview
 
-![Executive Dashboard](images/dashboard_1_executive.png)
+![Executive Dashboard](dashboard_1_executive.png)
 
 **Strategic Risk:**
 > São Paulo = 37.5% revenue. Truck driver strike (2018 precedent), port closure, or regional economic downturn → immediate 37% revenue impact with no geographic buffer.
@@ -88,7 +88,7 @@ Three comprehensive Tableau dashboards providing actionable insights:
 
 ## Dashboard 2: Sales & Revenue Analysis
 
-![Sales Analysis](images/dashboard_2_sales_analysis.png)
+![Sales Analysis](dashboard_2_sales_analysis.png)
 
 ### Geographic Heat Map: Infrastructure Correlation
 
@@ -158,7 +158,7 @@ Three comprehensive Tableau dashboards providing actionable insights:
 
 ## Dashboard 3: Customer Analytics (RFM Segmentation)
 
-![Customer Analytics](images/dashboard_3_customer_analytics.png)
+![Customer Analytics](dashboard_3_customer_analytics.png)
 
 ### RFM Segment Distribution
 
