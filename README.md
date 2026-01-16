@@ -18,7 +18,6 @@ Three comprehensive Tableau dashboards providing actionable insights:
 3. **Customer Analytics** - RFM segmentation, customer value analysis
 
 **Dataset:** [Olist Brazilian E-commerce (Kaggle)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)  
-**Period:** September 2016 - August 2018  
 **Scope:** 96,478 orders | R$16.1M revenue | 96K customers | 27 states | Sept 2016 - Aug 2018
 
 ---
