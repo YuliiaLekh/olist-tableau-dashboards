@@ -1,9 +1,6 @@
 # Olist E-commerce: Tableau Dashboards
 
 Interactive business intelligence dashboards analyzing 100K+ orders from Brazilian e-commerce marketplace.
-
-[![Tableau Public](https://public.tableau.com/app/profile/yuliia.lekh/vizzes)]
-
 ---
 
 ## Live Dashboards
@@ -55,7 +52,7 @@ Three comprehensive Tableau dashboards providing actionable insights:
 
 ---
 
-## 🚀 Related Projects
+## Related Projects
 
 **[SQL Analysis Repository](https://github.com/YuliiaLekh/olist-sql-analysis)** - Exploratory data analysis and SQL queries for this dataset
 
