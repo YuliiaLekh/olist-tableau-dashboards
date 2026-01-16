@@ -67,18 +67,8 @@ Three comprehensive Tableau dashboards providing actionable insights:
 
 ### Category Portfolio: Diversification Strength
 
-**Top 6 Categories (40% of revenue):**
-
-| Category | Revenue | Orders | Avg Value |
-|----------|---------|--------|-----------|
-| Health & Beauty | R$ 1,456,170 | 8,800 | R$ 165 |
-| Watches & Gifts | R$ 1,315,330 | 7,900 | R$ 166 |
-| Bed/Bath/Table | R$ 1,292,579 | 7,800 | R$ 166 |
-| Sports & Leisure | R$ 1,159,927 | 7,000 | R$ 166 |
-| IT Accessories | R$ 1,068,786 | 6,400 | R$ 167 |
-
 **Portfolio Insight:**
-> No category exceeds 10% of revenue (vs Amazon's 40%+ Electronics concentration). 
+> No category exceeds 10% of revenue. 
 > 
 > **Advantage:** Recession-resistant — downturn in one category doesn't threaten business viability.
 > **Trade-off:** Harder to achieve category leadership positioning.
